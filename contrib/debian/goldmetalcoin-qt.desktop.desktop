@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=GoldMetalCoin
+Comment=GoldMetalCoin P2P Cryptocurrency
+Exec=goldmetalcoin-qt %u
+Terminal=false
+Type=Application
+Icon=goldmetalcoin128
+MimeType=x-scheme-handler/goldmetalcoin;
+Categories=Office;Finance;
+Name[en_US]=goldmetalcoin-qt.desktop
